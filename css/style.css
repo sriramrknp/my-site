@@ -58,7 +58,7 @@ body{
 
 /* Navigation bar */
 nav {
-    overflow: visible;
+    overflow: hidden;
     box-sizing: border-box;
     position: fixed;
     background-image: linear-gradient(to left, rgb(229, 226, 226) , rgb(229, 226, 226));
